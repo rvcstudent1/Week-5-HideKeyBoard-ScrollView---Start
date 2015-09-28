@@ -156,6 +156,7 @@
 		36101A901A893E96002D8BE4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Rock Valley College";
 				TargetAttributes = {
@@ -405,6 +406,7 @@
 				36101AB91A893E96002D8BE4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		36101ABA1A893E96002D8BE4 /* Build configuration list for PBXNativeTarget "HideKeyBoardTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +415,7 @@
 				36101ABC1A893E96002D8BE4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
